@@ -15,7 +15,7 @@ h3{
 }
 
 li{
-    
+    list-style-type: none;
 }
 
 #Header{
@@ -58,7 +58,7 @@ li{
     color: #FFBC00;
     font-size: 40px;
     font-family: "Passion One";
-    margin-bottom: 0px
+    margin-bottom: 0px;
     background-color: #8E41D5;
 }
 
